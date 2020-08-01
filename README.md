@@ -1,6 +1,5 @@
 ### Hi I'm Sanjay Mohan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebysanjay&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 - 🔭 I’m currently pursuing B.Tech. on Information Technology.
 - 🌱 I’m intrested in Front End Engineering and Mobile Application Development.
@@ -10,5 +9,10 @@
 
 
 
-
+<a href="https://github.com/codebysanjay">
 <img src="https://github-readme-stats.vercel.app/api?username=codebysanjay&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
+</a>
+<br>
+<a href="https://github.com/codebysanjay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysanjay&theme=dark&hide_langs_below=1" />
+</a>
