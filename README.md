@@ -1,6 +1,6 @@
 ### Hi I'm Sanjay Mohan 👋
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 - 🔭 I’m currently pursuing B.Tech. on Information Technology.
 - 🌱 I’m intrested in Front End Engineering and Mobile Application Development.
