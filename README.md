@@ -8,10 +8,11 @@
 
 
 
+
 <a href="https://github.com/codebysanjay">
-<img src="https://github-readme-stats.vercel.app/api?username=codebysanjay&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysanjay&theme=dark&hide_langs_below=1" />
 </a>
 <br>
 <a href="https://github.com/codebysanjay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysanjay&theme=dark&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=codebysanjay&show_icons=true&theme=radical"/>
 </a>
