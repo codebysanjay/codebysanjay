@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently pursuing B.Tech. on Information Technology.
 - 🌱 I’m intrested in Front End Engineering and Mobile Application Development.
-- 👯 I’m looking to collaborate on flutter projects.
-- 💬 Ask me about flutter and tech related stuff.
+- 👯 I’m looking to collaborate on React projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/codebysanjay),[Linked-In](linkedin.com/in/sanjay-mohan-gecb)
 
 
