@@ -1,6 +1,6 @@
 # Hello mate let me introduce myself! [Resume | CV here 📁](https://drive.google.com/file/d/1WjvzazZkmaRRY0JiMeoyR6qu-qtMpary/view?usp=sharing)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebysanjay&label=Views&color=blue&style=plastic" alt="codebysanjay" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebysanjay&label=Views&color=blue&style=plastic" alt="codebysanjay" /> </p> -->
 
 
 - 🎓 Final year student at Government Engineering College, Barton Hill pursing B.Tech Information Technology.
