@@ -1,7 +1,7 @@
-### Hi I'm Sanjay Mohan 👋
+# Hello mate let me introduce myself! [Resume | CV here 📁](https://drive.google.com/file/d/1WjvzazZkmaRRY0JiMeoyR6qu-qtMpary/view?usp=sharing)
 
 
-- 🔭 I’m currently pursuing B.Tech. on Information Technology.
+- 🎓 Final year student at Government Engineering College, Barton Hill pursing B.Tech Information Technology.
 - 🌱 I’m intrested in Front End Engineering and Mobile Application Development.
 - 👯 I’m looking to collaborate on React projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/codebysanjay),[Linked-In](linkedin.com/in/sanjay-mohan-gecb)
