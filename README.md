@@ -1,20 +1,18 @@
-# Hello mate let me introduce myself! [Resume | CV here 📁](https://drive.google.com/file/d/1WjvzazZkmaRRY0JiMeoyR6qu-qtMpary/view?usp=sharing)
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/62655533?v=4" alt="codebysanjay" /> </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebysanjay&label=Views&color=blue&style=plastic" alt="codebysanjay" /> </p> -->
+# 👋 Hello, I'm Sanjay Mohan!
+
+- 🧑‍💻 **Android Developer** with 3+ years of experience building innovative mobile apps using Kotlin and Jetpack Compose.  
+- 🎓 Graduated in **Information Technology** from [APJ Abdul Kalam Technological University](https://ktu.edu.in/home.htm).  
+- 🚀 Skilled in **Kotlin**, **Firebase**, **Jetpack Compose**, **CI/CD (GitLab)**, and **Material UI concepts**.  
+- 🌟 Passionate about crafting seamless user experiences and collaborating with UI/UX teams to bring creative ideas to life.  
+- 🌱 Currently exploring **Python**, **Django** for backend development.  
+- 📫 Reach me at: [Twitter](https://twitter.com/codebysanjay) | [LinkedIn](https://linkedin.com/in/sanjay-mohan-gecb)  
+
+---
 
 
-- 🎓 Final year student at Government Engineering College, Barton Hill pursing B.Tech Information Technology.
-- 🌱 I’m intrested in Front End Engineering and Mobile Application Development.
-- 👯 I’m looking to collaborate on React projects.
-- 📫 How to reach me: [Twitter](https://twitter.com/codebysanjay),[Linked-In](linkedin.com/in/sanjay-mohan-gecb)
 
 
-
-
-<a href="https://github.com/codebysanjay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysanjay&theme=dark&hide_langs_below=1" />
-</a>
-<br>
-<a href="https://github.com/codebysanjay">
-<img src="https://github-readme-stats.vercel.app/api?username=codebysanjay&show_icons=true&theme=radical"/>
-</a>
+## 🤝 Let's Connect!
+- 📬 Email: sanjaymohan3798@gmail.com
