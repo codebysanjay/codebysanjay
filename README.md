@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/62655533?v=4" alt="codebysanjay" /> </p>
 
 # 👋 Hello, I'm Sanjay Mohan!
 
